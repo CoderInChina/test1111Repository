@@ -13,4 +13,6 @@ public interface TestInterface {
   
   public void zhansan();
   
+  public void zhansan111();
+  
 }
