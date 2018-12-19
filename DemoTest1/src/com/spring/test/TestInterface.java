@@ -11,5 +11,7 @@ public interface TestInterface {
   public void ddd(); 
   
   public void lisi();
+  public void lisi111();
+  
   
 }
