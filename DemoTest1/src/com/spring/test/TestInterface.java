@@ -15,6 +15,9 @@ public interface TestInterface {
   public void zhansan();
   public void zhansan111();
   
+
   public void test_a2();
+
+  public void test_a1();
   
 }
